@@ -1,7 +1,10 @@
-## Welcome to GitHub Pages
+# so, you wanna be a vtuber?
 
-You can use the [editor on GitHub](https://github.com/DontMindMe11/tbd/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hajimemashite Suzuki Sensei...
 
+Perry has introduced you to the power of [Hololive Productions](https://en.hololive.tv/) and Vtubers. This shall be a deep dive into how to become your own vtuber and make those grammer lessons exilarating. 
+
+<img id="img1" src="https://i.redd.it/od689gbndto51.jpg" width="500" height="400">
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
@@ -35,3 +38,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+<style>
+  #img1 {
+    margin: auto;
+  }
+</style>
