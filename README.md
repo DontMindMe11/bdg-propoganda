@@ -5,7 +5,10 @@ Hajimemashite Suzuki Sensei...
 Perry has introduced you to the power of [Hololive Productions](https://en.hololive.tv/) and Vtubers. This shall be a deep dive into how to become your own vtuber and make those grammer lessons exilarating. 
 
 <img id="img1" src="https://i.redd.it/od689gbndto51.jpg" width="500" height="400">
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+First step is obtaining your own model. This is generally a lengthy process, but we've gone ahead and done it for you. 
+[Primary Option](https://imkrisyim.gumroad.com/l/qpecZ)
+<img id="img1" src="https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec" width="500" height="400">
 
 ### Markdown
 
