@@ -1,18 +1,19 @@
-# so, you wanna be a vtuber?
+# Pokemon Branch
 
-Hajimemashite Suzuki Sensei...
+Welcome to DMC! Thanks for joining our Pokemon branch. This will be a hub for what we'll be doing, as well as a beginner's guide to start learning competetive VGC and a bit of Smogon Singles. This site will assume you have atleast played the base Pokemon games casually and understand the basic battle mechanics.
 
-Perry has introduced you to the power of [Hololive Productions](https://en.hololive.tv/) and Vtubers. This shall be a deep dive into how to become your own vtuber and make those grammer lessons exilarating. 
+<p align="center">
+  <img id="img1" src="https://live.staticflickr.com/4560/26799491829_6630911c85_b.jpg" width="500" height="400">
+</p>
 
-<img id="img1" src="https://i.redd.it/od689gbndto51.jpg" width="500" height="400">
+### Possible Things We'll Be Doing This Year (subject to change)
+- [Gen 8 VGC](#vgc)
+- Gen 8 Smogon Singles (OU, UU, NU, RU, PU)
+- Casual Formats (Random Battles, Metronome Battles, OM's)
+- Pokemon Unite
 
-First step is obtaining your own model. This is generally a lengthy process, but we've gone ahead and done it for you. 
-[Primary Option](https://imkrisyim.gumroad.com/l/qpecZ)
-<img id="img1" src="https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec" width="500" height="400">
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## <a name="vgc">VGC</a> {: #VGC }
+VGC stands for Video Game Championships and is a doubles format that utilizes
 
 ```markdown
 Syntax highlighted code block
