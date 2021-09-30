@@ -9,8 +9,8 @@ My personal catalogue of all of the D&D characters I have or are currently using
 ### Characters
 - [Lloyd Northstar (Dragonborn Druid)](#lloyd)
 - [Dave Id (Human Paladin)](#dave)
-- [Notta Scamiswear (Aarakocra Barbarian Rogue)] (#scam)
-- [Derek Bum (Gnome Cleric)] (#kitchengun)
+- [Notta Scamiswear (Aarakocra Barbarian Rogue)](#scam)
+- [Derek Bum (Gnome Cleric)](#kitchengun)
 
 ## <a name="lloyd">Lloyd Northstar</a>
 
@@ -50,10 +50,3 @@ Reference To:
 
 ## <a name="dave">Dave Id</a>
 
-
-
-<style>
-  #img1 {
-    margin: auto;
-  }
-</style>
