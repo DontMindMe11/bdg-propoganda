@@ -1,6 +1,6 @@
 ## Brian David Gilbert: He sure is a person
 
-A basic categorization of [Brian David Gilbert's](https://www.youtube.com/channel/UCakAg8hC_RFJm4RI3DlD7SA) content. subscribe :)
+A basic categorization of [Brian David Gilbert's](https://www.youtube.com/channel/UCakAg8hC_RFJm4RI3DlD7SA) content. His content varies wildly. Whenever you upload, you can never know if it will be a beautifully crafted indie horror short film, or a fun song about eating pickles. This will be a grouping of these videos into 4 main categories to view some of his content. 
 
 <p align="center">
   <img id="img1" src="https://cdn.discordapp.com/attachments/692424734918443119/893411131572494396/unknown.png" width="500" height="500">
