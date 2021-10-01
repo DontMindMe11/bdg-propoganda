@@ -1,4 +1,4 @@
-# Brian David Gilbert: He sure is a person
+## Brian David Gilbert: He sure is a person
 
 A basic categorization of [Brian David Gilbert's](https://www.youtube.com/channel/UCakAg8hC_RFJm4RI3DlD7SA) content. subscribe :)
 
@@ -6,7 +6,7 @@ A basic categorization of [Brian David Gilbert's](https://www.youtube.com/channe
   <img id="img1" src="https://cdn.discordapp.com/attachments/692424734918443119/893411131572494396/unknown.png" width="500" height="500">
 </p>
 
-### Categories:
+## Categories:
 - [Horror](#lloyd)
 - [Comedic Songs/Music Videos](#mv)
 - [Hobby](#hobby)
